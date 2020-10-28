@@ -61,7 +61,8 @@ body {
 footer {
   display: flex;
   justify-content: center;
-  margin-bottom: 0;
+  align-items: center;
+  margin: 0;
   color: rgba(0, 0, 0, .75);
 }
 footer a{
